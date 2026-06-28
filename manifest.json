@@ -1,0 +1,9 @@
+{
+  "short_name": "LocalAnime",
+  "name": "منظم المسلسلات المحلي",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0b0d",
+  "theme_color": "#8c52ff",
+  "orientation": "portrait-primary"
+}
